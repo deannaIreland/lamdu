@@ -32,7 +32,7 @@ Lamdu requires [stack](https://github.com/commercialhaskell/stack/releases) (ver
 To check your version of stack, use:
 
 ```shell
-stack -v
+stack --version
 ```
 
 and make sure that the version is at least 1.6.1. If stack is older than 1.6.1, you will need to upgrade stack. If you need to upgrade stack, use:
@@ -68,7 +68,7 @@ Lamdu requires [stack](https://github.com/commercialhaskell/stack/releases) (ver
 To check your version of stack, use:
 
 ```shell
-stack -v
+stack --version
 ```
 
 and make sure that the version is at least 1.6.1. If stack is older than 1.6.1, you will need to upgrade stack. If you need to upgrade stack, use:
